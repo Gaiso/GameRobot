@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">游戏小飞</string>
+    <string name="keyboard_name">游戏精灵键盘</string>
+    <string name="select_channel">选择频道</string>
+    <array name="wen_dao_channel_list">
+        <item>当前</item>
+        <item>世界</item>
+        <item>帮派</item>
+        <item>组队</item>
+    </array>
+
+    <string name="wen_dao">问道</string>
+    <string name="start">启动</string>
+    <string name="auto_shout_1">自动喊话1</string>
+    <string name="auto_shout_2">自动喊话2</string>
+    <string name="auto_shout_3">自动喊话3</string>
+    <string name="shout_interval">喊话间隔（秒）</string>
+    <string name="app_tips">需要root设备才能使用本应用\n请在应用管理中打开本应用的悬浮窗权限</string>
+    <string name="no_root_tips">该设备还未root</string>
+    <string name="start_robot">开始运行...</string>
+    <string name="stop_robot">停止运行</string>
+</resources>
